@@ -1,3 +1,7 @@
+# This is a script to add a "sparkles and glitter" effect to your apps, creations, and GUIs.
+# By Adam Rivers of Hello Security LLC 2024.
+# Inspired By Lauren Carlson's love for all things glittery and an insistance that my inventions must sparkle.
+
 import sys
 import random
 from PyQt5.QtWidgets import QApplication, QWidget
