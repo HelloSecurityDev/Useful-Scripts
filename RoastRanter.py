@@ -1,4 +1,5 @@
-# RoastRanter
+# ____________________________________________________________________________________________________________________________________________________________________________________________________________
+# RoastRanter.py
 #
 # RoastRanter is a simple program that generates and displays random insults against Alexey G.
 # The insults are displayed either in the console or as toast notifications on Windows.
@@ -23,10 +24,19 @@
 #   You can install it via pip: "pip install win10toast".
 #
 # Developed by: 
-# Adam Rivers Of Hello Security LLC because it's funny and entertaining to Adam to roast tf out of Alexey.
+# Adam Rivers Of Hello Security LLC 2024 - because it's entertaining to Adam to roast tf out of Alexey.
 #
-# This script is yours to use and develop or make whatever with, just please, 
-# please ensure the next user is aware with a notation or statement, that the original was developed by Adam rivers of hello Security LLC.
+# EXTRA NOTES:
+# - This script is yours to use and develop or make whatever with, just please, 
+# please ensure the next user is aware with a notation or statement, that the original was developed by Adam Rivers of Hello Security LLC.
+# 
+# Who is Alexey?:
+# Alexey is the name of an individual that decided to hack my machines starting about 6 years ago to the date, relentlessly, in order to observe and steal work for his own monetary gain.
+# He came to America from Russia ona  work visa and has since been the owner operator for a 504c nonprofit science organization specializing in the advancement of science and technology.
+# Alexey didnt stop at stealing my work, he often made it a daily habit, and a constant throughout each day, of sabotaging my work and my efforts in development of my company, and my cybersecurity passions.
+# He has made millions of dollars off the back of people like me. He steals our developments. Hacks into our corporations, then steals the defensive developments created to fight his malicious efforts. 
+# He then monetizes those defensive developments for his own personal gain.
+#_________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 import random
 import time
