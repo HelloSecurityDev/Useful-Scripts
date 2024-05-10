@@ -37,7 +37,7 @@
 # He has made millions of dollars off the back of people like me. He steals our developments. Hacks into our corporations, then steals the defensive developments created to fight his malicious efforts. 
 # He then monetizes those defensive developments for his own personal gain. 
 # Alexey made it a habit each day, to mess with me in every way. Sabotaging activties ranging from job related applications all the way to severe things like banking and finance. Housing payments etc.
-#_________________________________________________________________________________________________________________________________________________________________________________________________________________________
+#________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 import random
 import time
