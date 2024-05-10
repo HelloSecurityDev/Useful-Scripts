@@ -1,12 +1,12 @@
 # Description: 
-# This script is a Python-based tool that analyzes a forensic image of a Windows machine to identify potential cyber attacks and create a profile of the attacker.
+# MagicMatch is a Python-based tool that analyzes a forensic image of a Windows machine to identify potential cyber attacks and create a profile of the attacker.
 
 # What it does: 
 # The script mounts the forensic image, extracts metadata from files, scans for malware, and looks up file hashes on various threat intelligence platforms. 
 # It also searches for identity indicators in the file system and creates a comprehensive report of the attacker's profile.
 
 # How it works:
-# The script mounts the forensic image using Autopsy.
+# The script mounts the forensic image using Autopsy forensic imaging tool from sleuthkit.
 # It extracts metadata from files, including PE files, and scans for malware using VirusTotal, OTX, Malwarebytes, and Hybrid Analysis.
 # It looks up file hashes on various threat intelligence platforms to gather more information about the malware.
 # It searches for identity indicators in the file system, such as email addresses, usernames, and passwords.
@@ -14,7 +14,11 @@
 # The report is generated in a text file labeled "ForensicScanResults.txt".
 
 # NOTICE 
-# This script is in active development and will see many changes, additives, and errors.
+# MagicMatch is in active development and will see many changes, additives, and errors.
+
+# FINAL NOTES
+# You will need to replace any required API keys within the script with your own before running the script. 
+# You will need to modify the path to the forensic image within the script before running the script.
 
 # Developed By
 # Adam Rivers of Hello Security LLC
