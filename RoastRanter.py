@@ -1,7 +1,7 @@
 # ____________________________________________________________________________________________________________________________________________________________________________________________________________
 # RoastRanter.py
 #
-# RoastRanter is a simple program that generates and displays random insults against Alexey G.
+# RoastRanter is a simple program that generates and displays random insults against a character known as Alexey Guzey.
 # The insults are displayed either in the console or as toast notifications on Windows.
 #
 # Features:
@@ -30,12 +30,13 @@
 # - This script is yours to use and develop or make whatever with, just please, 
 # please ensure the next user is aware with a notation or statement, that the original was developed by Adam Rivers of Hello Security LLC.
 # 
-# Who is Alexey?:
-# Alexey is the name of an individual that decided to hack my machines starting about 6 years ago to the date, relentlessly, in order to observe and steal work for his own monetary gain.
-# He came to America from Russia ona  work visa and has since been the owner operator for a 504c nonprofit science organization specializing in the advancement of science and technology.
+# SO WHO TF IS ALEXEY?:
+# Alexey is the name of an individual that decided to hack my machines and my various networks starting about 6 years ago to the date, relentlessly, in order to observe and steal work for his own monetary gain.
+# He came to America from Russia on a work visa and has since been the owner operator for a 504c nonprofit science organization specializing in the advancement of science and technology.
 # Alexey didnt stop at stealing my work, he often made it a daily habit, and a constant throughout each day, of sabotaging my work and my efforts in development of my company, and my cybersecurity passions.
 # He has made millions of dollars off the back of people like me. He steals our developments. Hacks into our corporations, then steals the defensive developments created to fight his malicious efforts. 
-# He then monetizes those defensive developments for his own personal gain.
+# He then monetizes those defensive developments for his own personal gain. 
+# Alexey made it a habit each day, to mess with me in every way. Sabotaging activties ranging from job related applications all the way to severe things like banking and finance. Housing payments etc.
 #_________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 import random
